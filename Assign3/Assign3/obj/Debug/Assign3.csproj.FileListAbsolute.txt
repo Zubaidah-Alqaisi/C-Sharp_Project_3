@@ -1,0 +1,44 @@
+C:\Users\ahmed\Desktop\Assigns\Assign3\bin\Debug\Assign3.exe.config
+C:\Users\ahmed\Desktop\Assigns\Assign3\bin\Debug\Assign3.exe
+C:\Users\ahmed\Desktop\Assigns\Assign3\bin\Debug\Assign3.pdb
+C:\Users\ahmed\Desktop\Assigns\Assign3\bin\Debug\MySql.Data.dll
+C:\Users\ahmed\Desktop\Assigns\Assign3\bin\Debug\MySql.Data.xml
+C:\Users\ahmed\Desktop\Assigns\Assign3\obj\Debug\Assign3.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\Assigns\Assign3\obj\Debug\Assign3.Form1.resources
+C:\Users\ahmed\Desktop\Assigns\Assign3\obj\Debug\Assign3.Properties.Resources.resources
+C:\Users\ahmed\Desktop\Assigns\Assign3\obj\Debug\Assign3.csproj.GenerateResource.Cache
+C:\Users\ahmed\Desktop\Assigns\Assign3\obj\Debug\Assign3.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Assigns\Assign3\obj\Debug\Assign3.exe
+C:\Users\ahmed\Desktop\Assigns\Assign3\obj\Debug\Assign3.pdb
+\\Client\C$\Users\ahmed\Desktop\Assigns\Assign3\bin\Debug\Assign3.exe.config
+\\Client\C$\Users\ahmed\Desktop\Assigns\Assign3\obj\Debug\Assign3.exe
+\\Client\C$\Users\ahmed\Desktop\Assigns\Assign3\obj\Debug\Assign3.pdb
+\\Client\C$\Users\ahmed\Desktop\Assigns\Assign3\bin\Debug\Assign3.exe
+\\Client\C$\Users\ahmed\Desktop\Assigns\Assign3\bin\Debug\Assign3.pdb
+\\Client\C$\Users\ahmed\Desktop\Assigns\Assign3\bin\Debug\MySql.Data.dll
+\\Client\C$\Users\ahmed\Desktop\Assigns\Assign3\bin\Debug\MySql.Data.xml
+\\Client\C$\Users\ahmed\Desktop\Assigns\Assign3\obj\Debug\Assign3.csprojResolveAssemblyReference.cache
+\\Client\C$\Users\ahmed\Desktop\Assigns\Assign3\obj\Debug\Assign3.Form1.resources
+\\Client\C$\Users\ahmed\Desktop\Assigns\Assign3\obj\Debug\Assign3.Properties.Resources.resources
+\\Client\C$\Users\ahmed\Desktop\Assigns\Assign3\obj\Debug\Assign3.csproj.GenerateResource.Cache
+H:\Visual Studio 2017\CSCI 473\Assign3\bin\Debug\Assign3.exe.config
+H:\Visual Studio 2017\CSCI 473\Assign3\obj\Debug\Assign3.exe
+H:\Visual Studio 2017\CSCI 473\Assign3\obj\Debug\Assign3.pdb
+H:\Visual Studio 2017\CSCI 473\Assign3\bin\Debug\Assign3.exe
+H:\Visual Studio 2017\CSCI 473\Assign3\bin\Debug\Assign3.pdb
+H:\Visual Studio 2017\CSCI 473\Assign3\bin\Debug\MySql.Data.xml
+H:\Visual Studio 2017\CSCI 473\Assign3\obj\Debug\Assign3.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2017\CSCI 473\Assign3\obj\Debug\Assign3.Form1.resources
+H:\Visual Studio 2017\CSCI 473\Assign3\obj\Debug\Assign3.Properties.Resources.resources
+H:\Visual Studio 2017\CSCI 473\Assign3\obj\Debug\Assign3.csproj.GenerateResource.Cache
+H:\Visual Studio 2017\CSCI 473\Assign3\Assign3\bin\Debug\Assign3.exe.config
+H:\Visual Studio 2017\CSCI 473\Assign3\Assign3\obj\Debug\Assign3.exe
+H:\Visual Studio 2017\CSCI 473\Assign3\Assign3\obj\Debug\Assign3.pdb
+H:\Visual Studio 2017\CSCI 473\Assign3\Assign3\bin\Debug\Assign3.exe
+H:\Visual Studio 2017\CSCI 473\Assign3\Assign3\bin\Debug\Assign3.pdb
+H:\Visual Studio 2017\CSCI 473\Assign3\Assign3\bin\Debug\MySql.Data.dll
+H:\Visual Studio 2017\CSCI 473\Assign3\Assign3\bin\Debug\MySql.Data.xml
+H:\Visual Studio 2017\CSCI 473\Assign3\Assign3\obj\Debug\Assign3.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2017\CSCI 473\Assign3\Assign3\obj\Debug\Assign3.Form1.resources
+H:\Visual Studio 2017\CSCI 473\Assign3\Assign3\obj\Debug\Assign3.Properties.Resources.resources
+H:\Visual Studio 2017\CSCI 473\Assign3\Assign3\obj\Debug\Assign3.csproj.GenerateResource.Cache
